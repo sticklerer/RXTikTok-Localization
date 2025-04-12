@@ -13,21 +13,21 @@
 "OFF" = "Ki";
 "Cancel" = "Mégse";
 "Confirm" = "Alkalmaz";
-"Actions" = "Actions";
+"Actions" = "Művelektek";
 "Default" = "Alapértelmezett";
 "Modern" = "Modern";
-"Compact" = "Compact";
+"Compact" = "Kompakt";
 "Backgrounding ✌️" = "Backgrounding ✌️";
-"Are you sure?" = "Biztos vagy hogy?";
+"Are you sure?" = "Are you sure?";
 
 // MARK: - Navigation
 "Feed" = "Feed";
 "Profile" = "Profil";
-"Other" = "Egyébb";
+"Other" = "Egyéb";
 "Region" = "Régió";
 "Developer" = "Fejlesztő";
-"Design Options" = "Design Options";
-"Other Settings" = "Other Settings";
+"Design Options" = "Dizájn Beállítások";
+"Other Settings" = "Egyéb Beállítások";
 "Auto Clear History" = "Auto Clear History";
 "Enable Embeded Links" = "Enable Embeded Links";
 "Language 🌎" = "Nyelv 🌎";
